@@ -100,7 +100,8 @@ public class MainActivity extends AppCompatActivity {
 
 ![Screenshot 2024-03-13 135953](https://github.com/keerthysesha/ImplicitIntent-MAD/assets/125575936/368901de-57f0-4f00-a5bd-f100860e04e7)
 
-![search](https://github.com/keerthysesha/ImplicitIntent-MAD/assets/125575936/3a3ec782-ba10-4c3e-908b-173ed95b7c76)
+![image](https://github.com/keerthysesha/ImplicitIntent-MAD/assets/125575936/75ac77a2-430f-4498-bed2-ba5f9dfda8ba)
+
 
 ![image](https://github.com/keerthysesha/ImplicitIntent-MAD/assets/125575936/a11464bc-26c4-4c59-b54e-6e79e67ff769)
 
