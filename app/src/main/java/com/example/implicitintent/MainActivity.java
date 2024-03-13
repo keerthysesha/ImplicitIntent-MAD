@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String url=editText.getText().toString();
                 Intent i = new Intent(Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://www.geeksforgeeks.org/"));
+                i.setData(Uri.parse("https://mail.google.com"));
                 startActivity(i);
 
             }
